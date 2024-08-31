@@ -27,7 +27,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/ellen-luiza-472180226" target="_blank">
+  <a href="https://www.linkedin.com/in/ellen-luiza-472180226/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="[https://www.instagram.com/seu-perfil](https://www.instagram.com/ellen.lsb?igsh=MWRsbXZ1bmtjY3ZvNg%3D%3D)" target="_blank">
