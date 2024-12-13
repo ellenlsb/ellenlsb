@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫Quem sou eu:
 Meu nome é Ellen Luiza, tenho 20 anos, sou estudante de Análise e Desenvolvimento de Sistemas e
 apaixonada por tecnologia. Tenho experiência em desenvolvimento web com foco em .NET e C#, 
 além de conhecimentos em HTML, CSS, JavaScript, React, e C.
